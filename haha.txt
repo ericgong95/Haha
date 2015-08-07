@@ -11,3 +11,5 @@ int main(void)
     int x = GetInt();
     
     printf("I am in Group %i\n", x - 1);
+    printf("Group %d\n", NumberOfGroupMembers - '0');
+ };
